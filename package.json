@@ -1,0 +1,26 @@
+{
+  "name": "waterbot",
+  "version": "1.0.0",
+  "description": "Bot for water delivery service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batovpasha/WaterBot.git"
+  },
+  "author": "Pavel Batov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batovpasha/WaterBot/issues"
+  },
+  "homepage": "https://github.com/batovpasha/WaterBot#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "viber-bot": "^1.0.13",
+    "winston": "^3.1.0",
+    "winston-console-formatter": "^1.0.0-beta.3"
+  }
+}
