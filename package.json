@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/batovpasha/WaterBot#readme",
   "dependencies": {
-    "express": "^4.16.3",
     "request": "^2.88.0",
     "viber-bot": "^1.0.13",
     "winston": "^3.1.0",
